@@ -3,6 +3,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Simulation--AI--Agent-blue?logo=github)](https://github.com/bulentsoykan/Simulation-AI-Agent)
 [![Author](https://img.shields.io/badge/Author-Bulent%20Soykan-green)](https://github.com/bulentsoykan)
 
+![Simulation AI Agent](Simulation%20AI%20Agent.png)
+
 A plugin-based discrete event simulation server with MCP (Model Context Protocol) integration, enabling AI assistants to run and analyze simulations.
 
 ## Features
