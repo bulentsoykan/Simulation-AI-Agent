@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Simulation AI Agent"
+abstract: "A plugin-based discrete event simulation server with MCP (Model Context Protocol) integration, enabling AI assistants to run and analyze simulations."
+authors:
+  - family-names: "Soykan"
+    given-names: "Bulent"
+    email: "soykanb@gmail.com"
+    orcid: ""
+repository-code: "https://github.com/bulentsoykan/Simulation-AI-Agent"
+url: "https://github.com/bulentsoykan/Simulation-AI-Agent"
+license: MIT
+keywords:
+  - simulation
+  - discrete-event-simulation
+  - simpy
+  - mcp
+  - model-context-protocol
+  - fastapi
+  - pytorch
+  - machine-learning
+  - queueing-theory
+  - manufacturing
+  - inventory-management
+  - vehicle-routing
+version: "2.0.0"
+date-released: "2024-02-14"

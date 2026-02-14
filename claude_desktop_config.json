@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "Simulation AI Agent": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mcp-remote",
+        "http://localhost:8001/mcp"
+      ]
+    }
+  }
+}
